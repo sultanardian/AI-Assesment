@@ -1,0 +1,22 @@
+| Nama Dokter           | Spesialisasi      | Hari Tersedia                | Waktu Tersedia                        |
+|-----------------------|-------------------|------------------------------|---------------------------------------|
+| Dr. Andi Pratama      | Kardiolog         | Senin, Rabu, Jumat           | 10:00 - 12:00, 14:00 - 16:00          |
+| Dr. Budi Santoso      | Neurolog          | Selasa, Kamis                | 09:00 - 11:00, 13:00 - 15:00          |
+| Dr. Clara Sari        | Derma             | Senin, Selasa, Kamis         | 11:00 - 13:00, 15:00 - 17:00          |
+| Dr. David Wijaya      | Pediater          | Senin, Rabu                  | 08:00 - 10:00, 12:00 - 14:00          |
+| Dr. Emiliana Kartika  | Ortopedi          | Selasa, Jumat                | 10:00 - 12:00, 16:00 - 18:00          |
+| Dr. Sarah Hidayati    | Praktisi Umum     | Senin, Jumat                 | 09:00 - 12:00, 13:00 - 17:00          |
+| Dr. Joko Sutrisno     | Androlog          | Selasa, Kamis                | 10:00 - 12:00, 14:00 - 16:00          |
+| Dr. Rina Kusuma       | Endokrin          | Rabu, Jumat                  | 09:00 - 11:00, 13:00 - 15:00          |
+| Dr. Miko Rahman       | Ahli Bedah        | Senin, Kamis                 | 10:00 - 13:00, 14:00 - 17:00          |
+| Dr. Olivia Sembiring  | Obstetri          | Selasa, Jumat                | 08:00 - 10:00, 14:00 - 16:00          |
+| Dr. Lukas Setiawan    | Onkologi          | Rabu, Jumat                  | 11:00 - 13:00, 15:00 - 17:00          |
+| Dr. Nani Kurniawan    | Psikiater         | Senin, Kamis                 | 10:00 - 12:00, 14:00 - 16:00          |
+| Dr. Thomas Prabowo    | Ahli Pencernaan   | Selasa, Jumat                | 09:00 - 11:00, 13:00 - 15:00          |
+| Dr. Sofia Malika      | Pulmonologi       | Senin, Rabu                  | 08:00 - 10:00, 12:00 - 14:00          |
+| Dr. Hendrik Salim     | Reumatologi       | Selasa, Kamis                | 09:00 - 11:00, 13:00 - 15:00          |
+| Dr. Emma Putri        | Nephrologi        | Rabu, Jumat                  | 10:00 - 12:00, 14:00 - 16:00          |
+| Dr. Daniel Nugroho    | Spesialis THT     | Senin, Jumat                 | 08:00 - 10:00, 12:00 - 14:00          |
+| Dr. Grace Tan         | Ahli Alergi       | Selasa, Kamis                | 10:00 - 12:00, 14:00 - 16:00          |
+| Dr. Jack Gunawan      | Fisioterapis      | Senin, Rabu, Jumat           | 09:00 - 11:00, 13:00 - 15:00          |
+| Dr. Lily Permata      | Chiropractor      | Selasa, Jumat                | 08:00 - 10:00, 14:00 - 16:00          |
